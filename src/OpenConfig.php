@@ -6,6 +6,7 @@
         private $system;
 
         public function __construct(){
+            $this->system = new \OpenNetworkTools\OpenConfig\System();
         }
 
         public function getSystem(){

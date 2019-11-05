@@ -8,11 +8,11 @@
         public function __construct(){
         }
 
-        public function getHostName(){
+        public function getHostname(){
             return $this->hostname;
         }
 
-        public function setHostName($hostname){
+        public function setHostname($hostname){
             $this->hostname = $hostname;
             return $this;
         }
