@@ -3,6 +3,7 @@
     <testsuites>
         <testsuite name="OpenConfig">
             <file>./tests/OpenConfigTests.php</file>
+            <file>./tests/OpenConfigSystemTests.php</file>
         </testsuite>
     </testsuites>
     <filter>
