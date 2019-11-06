@@ -9,4 +9,5 @@
          * @return \OpenNetworkTools\OpenConfig\System
          */
         public function getSystem();
+
     }
